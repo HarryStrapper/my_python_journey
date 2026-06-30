@@ -1,0 +1,294 @@
+# 🐍 Python for Cybersecurity Journey
+
+Welcome to my Python learning journey!
+
+This repository documents my progress as I learn Python with the goal of becoming a Cybersecurity Professional and Bug Bounty Hunter.
+
+## 🎯 Goals
+
+- Learn Python from basics to advanced.
+- Build automation scripts.
+- Learn networking and security programming.
+- Create cybersecurity tools.
+- Improve problem-solving skills.
+- Build a strong portfolio for Bug Bounty and Penetration Testing.
+
+## 📚 Learning Roadmap
+
+### ✅ Phase 1 - Python Basics
+- Variables & Data Types
+- Input / Output
+- Strings
+- Conditions
+- Loops
+- Lists
+- Dictionaries
+- Functions
+- File Handling
+
+### 🔄 Coming Soon
+- Object-Oriented Programming (OOP)
+- Modules & Packages
+- Error Handling
+- Regular Expressions
+- Networking with Python
+- Web Automation
+- API Development
+- Cybersecurity Automation
+- Scapy
+- Socket Programming
+- Cryptography
+
+## 📂 Repository Structure
+
+```
+Python/
+│
+├── Phase 1/
+├── Phase 2/
+├── Projects/
+├── Notes/
+└── README.md
+```
+
+## 🚀 Projects
+- Contact Book
+- Number Guessing Game
+- Password Manager
+- Port Scanner
+- Log Analyzer
+- OSINT Tool
+- Network Recon Tool
+
+## 📈 Progress
+
+- [x] Python Basics
+- [ ] Intermediate Python
+- [ ] Automation
+- [ ] Networking
+- [ ] Cybersecurity
+- [ ] Offensive Security
+
+## 🛠️ Tools
+
+- Python 3
+- VS Code
+- Git
+- GitHub
+- Kali Linux
+
+## 📌 Note
+
+This repository is updated regularly as I continue learning and building new projects.
+
+---
+
+⭐ If you're also learning Python for Cybersecurity, feel free to follow my journey!
+Agar tum Bug Bounty profile banana chahte ho to last me ye bhi add kar sakte ho:
+## 👨‍💻 About Me
+
+I'm an aspiring Cybersecurity Researcher focused on:
+
+- Python Automation
+- Bug Bounty Hunting
+- Web Application Security
+- CTF Challenges
+- Networking
+
+Learning one step at a time and sharing my progress publicly.
+
+Ye README recruiters aur bug bounty community dono ke liye professional lagega.
+
+are structure esa hai phase 1 me small code for learning and 1 project related to phase 1 and previous module ese 1-7 tak phase hai
+
+Achha, ab samajh gaya. Tum sirf Python notes upload nahi kar rahe. Tum 7-phase learning roadmap bana rahe ho, jahan:
+
+📁 Phase 1 → Chhote practice programs + 1 project
+📁 Phase 2 → Practice programs + 1 project
+...
+📁 Phase 7 → Advanced Cybersecurity projects
+
+Aise repository ke liye README bhi usi style ka hona chahiye.
+
+# 🐍 Python for Cybersecurity Roadmap
+
+Welcome to my Python for Cybersecurity learning repository.
+
+This repository contains my complete journey from Python basics to advanced cybersecurity automation. Every phase includes small practice programs to understand concepts and one practical project that combines everything learned in that phase.
+
+---
+
+## 🎯 Objective
+
+- Learn Python from scratch
+- Build strong programming fundamentals
+- Automate repetitive tasks
+- Develop cybersecurity tools
+- Prepare for Bug Bounty and Penetration Testing
+- Build a professional GitHub portfolio
+
+---
+
+# 📚 Learning Phases
+
+## ✅ Phase 1 – Python Fundamentals
+Topics:
+- Variables & Data Types
+- Input / Output
+- Strings
+- Conditions
+- Loops
+- Lists
+- Dictionaries
+- Functions
+- File Handling
+
+Project:
+- 📒 Contact Book CLI
+
+---
+
+## ⏳ Phase 2 – Intermediate Python
+
+Topics:
+- OOP
+- Error Handling
+- Modules
+- JSON
+- Regular Expressions
+- Decorators
+
+Project:
+- 🔐 Password Manager
+
+---
+
+## ⏳ Phase 3 – Python Automation
+
+Topics:
+- File Automation
+- Web Scraping
+- Email Automation
+- Scheduling
+- CLI Tools
+- Multithreading
+
+Project:
+- 📁 Smart File Organizer
+
+---
+
+## ⏳ Phase 4 – Advanced Automation
+
+Topics:
+- REST APIs
+- FastAPI
+- Databases
+- Async Programming
+- Selenium
+- Logging
+- Testing
+
+Project:
+- 🔍 OSINT Recon Tool
+
+---
+
+## ⏳ Phase 5 – Networking
+
+Topics:
+- Socket Programming
+- DNS
+- HTTP
+- Port Scanner
+- Scapy
+- SSH Automation
+- PCAP Analysis
+
+Project:
+- 🌐 Network Recon Suite
+
+---
+
+## ⏳ Phase 6 – Security
+
+Topics:
+- Cryptography
+- Hashing
+- Web Security
+- Log Analysis
+- Vulnerability Automation
+- Malware Basics
+
+Project:
+- 🛡️ Security Audit Tool
+
+---
+
+## ⏳ Phase 7 – Offensive Security
+
+Topics:
+- Exploit Development
+- Reverse Engineering
+- Fuzzing
+- Active Directory
+- CTF Automation
+
+Project:
+- ⚔️ Automated Pentesting Framework
+
+---
+
+# 📂 Repository Structure
+
+```
+Python-Cybersecurity-Roadmap/
+│
+├── Phase-1/
+│   ├── Practice/
+│   └── Project/
+│
+├── Phase-2/
+│   ├── Practice/
+│   └── Project/
+│
+├── Phase-3/
+├── Phase-4/
+├── Phase-5/
+├── Phase-6/
+├── Phase-7/
+│
+└── README.md
+```
+
+---
+
+# 🚀 Progress
+
+| Phase | Status |
+|--------|--------|
+| Phase 1 | 🟢 In Progress |
+| Phase 2 | ⚪ Not Started |
+| Phase 3 | ⚪ Not Started |
+| Phase 4 | ⚪ Not Started |
+| Phase 5 | ⚪ Not Started |
+| Phase 6 | ⚪ Not Started |
+| Phase 7 | ⚪ Not Started |
+
+---
+
+## 🛠️ Tech Stack
+
+- Python 3
+- VS Code
+- Git
+- GitHub
+- Kali Linux
+
+---
+
+## 📌 About
+
+This repository is updated regularly as I continue learning Python and applying it to cybersecurity through practical exercises and projects.
+
+⭐ Thanks for visiting my repository!
